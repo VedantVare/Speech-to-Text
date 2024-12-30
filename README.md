@@ -29,7 +29,7 @@ pip install pyttsx3 SpeechRecognition
 ## Usage
 1. Run the script:
    ```bash
-   python speech_recognition_tts.py
+   python Speech-to-Text.py
    ```
 2. Speak into the microphone. The program will:
    - Print what you said as text.
