@@ -7,7 +7,7 @@ This project is a Python-based program that:
 
 ## Features
 - **Speech Recognition**: Captures and understands your voice input.
-- **Text-to-Speech**: Responds using a natural-sounding voice.
+- **Speech-to-Text**: Responds using a natural-sounding voice.
 - **Continuous Listening**: Keeps running until stopped manually.
 
 ## Requirements
